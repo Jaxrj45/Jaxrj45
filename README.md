@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/edwinjax_?igsh=MXNlNno2ZTJkYjJjYw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:lopezjax76@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lopezjax76@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
