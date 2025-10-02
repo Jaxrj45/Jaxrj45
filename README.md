@@ -5,9 +5,16 @@
 ###
 
 <div align="center">
+  <a href="https://www.facebook.com/share/1F3vjekrDd/?mibextid=wwXIfr">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+
+  <a href="https://www.instagram.com/edwinjax_?igsh=MXNlNno2ZTJkYjJjYw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="mailto:lopezjax76@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
